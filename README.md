@@ -1,5 +1,6 @@
 # tool_rental
-test tool rental site with node.js, angularjs, mysql 
+test tool rental website with node.js, angularjs, mysql 
+It shows the list of tools with prices and descriptions and a user can select a tool to rent then check out.
 
 ## Instructions
 
